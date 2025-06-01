@@ -1,2 +1,2 @@
-# cehv13_notes
-Notes of CEH(Certified Ethical Hacker)V13
+# ceh_notes
+Notes of Hacking(Basic)
