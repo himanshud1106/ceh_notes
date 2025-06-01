@@ -1,7 +1,7 @@
-Footprinting and Reconnaissance:
+# Footprinting and Reconnaissance:
 Footprinting is the first step in any attack, where the attacker collects information about the target network to identify various ways to attack.
 
-Types of Footprinting:
+# Types of Footprinting:
 
 Passive Footprinting: Gathering information about the target without direct interaction, the target is completely unaware that this is happening. Performing passive Footprinting is technically difficult, as active traffic is not sent to the target organisation. We can only collect archived and stored information about the target using search engines, social networking sites, and so on.
 
