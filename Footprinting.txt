@@ -3,21 +3,26 @@ Footprinting is the first step in any attack, where the attacker collects inform
 
 # Types of Footprinting:
 
-Passive Footprinting: Gathering information about the target without direct interaction, the target is completely unaware that this is happening. Performing passive Footprinting is technically difficult, as active traffic is not sent to the target organisation. We can only collect archived and stored information about the target using search engines, social networking sites, and so on.
+* Passive Footprinting:
+Gathering information about the target without direct interaction, the target is completely unaware that this is happening. Performing passive Footprinting is technically difficult, as active traffic is not sent to the target organisation. We can only collect archived and stored information about the target using search engines, social networking sites, and so on.
 
-Active Footprinting: Gathering information about the target with direct interaction. Active Footprinting requires more preparation than passive Footprinting, as it may leave traces that can alert the target. Extracting metadata, emails, website links, DNS information, email tracking, etc.
+* Active Footprinting:
+Gathering information about the target with direct interaction. Active Footprinting requires more preparation than passive Footprinting, as it may leave traces that can alert the target. Extracting metadata, emails, website links, DNS information, email tracking, etc.
 
-Footprinting threats: The following are the threats made possible through Footprinting:
+# Footprinting threats:
+The following are the threats made possible through Footprinting:
 
-Social Engineering
-System and Network Attacks
-Information Leakage
-Privacy loss
-Corporate Espionage
-Business Loss
+* Social Engineering
+* System and Network Attacks
+* Information Leakage
+* Privacy loss
+* Corporate Espionage
+* Business Loss
 
-Attackers gain various information about the target like websites, DNS, Emails, IPs, location, finances, system information, etc., by Google search engines, reverse image process, Google Earth, Wiki, Whois, and many more ways.
+# Attackers gain various information about the target like websites, DNS, Emails, IPs, location, finances, system information, etc., by Google search engines, reverse image process, Google Earth, Wiki, Whois, and many more ways.
 
-Website Footprinting: Website Footprinting refers to the monitoring and analysis of the target organisation's website for information.
+# Website Footprinting:
+Website Footprinting refers to the monitoring and analysis of the target organisation's website for information.
 
-Footprinting through social engineering: Social engineering is the art of exploiting human behaviour to extract confidential information. Social engineers depend on the fact that people are unaware of their valuable information and are careless about protecting it.
+# Footprinting through social engineering:
+Social engineering is the art of exploiting human behaviour to extract confidential information. Social engineers depend on the fact that people are unaware of their valuable information and are careless about protecting it.
