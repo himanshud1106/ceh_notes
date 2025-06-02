@@ -1,0 +1,33 @@
+# Network Scanning: 
+Network scanning refers to a set of procedures used for identifying hosts. ports and services in a network. It is one of the components of intelligence gathering that can be used by the attackers, it is also used for identifying active machines, OS in a network.
+
+# Types of scanning:
+
+* Port Scanning:
+Port scanning is the process of checking the services running on the target computer by sending a sequence of messages in an attempt to break in. It involves connecting to or probing TCP and UDP ports of the target system to determine whether the services are running or are in a listening state.
+
+* Network Scanning:
+Network scanning is a procedure for identifying active hosts on a network, either to attack them or assess the security of the network.
+
+*Vulnerability Scanning:
+Vulnerability Scanning is a method for checking whether a system is exploitable by identifying its vulnerabilities.
+
+# TCP Communication
+
+* URG(Urgent):
+Data contained in the packet should be processed immediately.
+
+* FIN(Finish):
+There will be no further transmissions.
+
+* RST(Reset):
+Resets a connection.
+
+*PSH(Push):
+Sends all buffered data immediately.
+
+ACK(Acknowledgement):
+Acknowledges the receipt of a packet.
+
+SYN(Synchronize):
+Initiates a connection between hosts.
